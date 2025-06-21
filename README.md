@@ -3,7 +3,9 @@
   
 Firstly Run this command:
 
-``` pip instull PyPDF2 ```
+```bash
+pip instull PyPDF2
+ ```
 
 then all you need is to download the script and run it 
 ![PDF-Editor-main-Window](Screenshots/pdf-editor-GUI1.JPG)
